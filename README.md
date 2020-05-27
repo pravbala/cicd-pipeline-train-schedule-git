@@ -4,8 +4,7 @@ A simple train schedule app written using nodejs. It is intended to be used as a
 
 ## Running the app
 
-It is not necessary to run this app locally in order to complete the learning activities, but if you wish to do so you will need a local installation of npm. Begin by installing the npm dependencies with:
-
+It is not necessary to run this app locally in order to complete the learning activities, but if you wish to do so you will need a local installation of npm. final chnage
     npm install
 
 Then, you can run the app with:
